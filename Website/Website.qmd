@@ -1,0 +1,9 @@
+---
+title: "Lettuce Cara"
+---
+
+### Lettuces are great!
+
+There are lots of different varieties of lettuce, as well as wild relatives.
+
+![Image of different lettuces grown in pots in a glasshouse](Images/Lettuces.jpeg)
